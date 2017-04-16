@@ -1,5 +1,3 @@
-# Android Preferences的演示
-
+# Android Preferences
 
 ![]()
-
